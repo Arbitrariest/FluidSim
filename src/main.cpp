@@ -5,7 +5,7 @@
 
 int main(){
 
-    std::cout << "Hello World";
+    std::cout << "Check if build works";
 
     return 0;
 
